@@ -36,3 +36,7 @@ Eg; one of the subheadings in the Item-Sales-Report.xls is "Bagel Standard Noise
 - The files that are combined are then moved to [Temp Docs](https://github.com/qwertyfox/Frances/tree/master/Dir/Temp%20Docs) 
 - Syntax; Merged_file_name:Doc1,Doc2,Doc3 <br>
 Here a seperate document name Merged_file_name.docx is created by combining the contents of Doc1, Doc2, Doc3. <br>
+
+## License & Copyright
+[License](LICENSE).
+
