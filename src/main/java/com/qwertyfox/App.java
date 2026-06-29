@@ -12,7 +12,7 @@ public class App
         System.out.println( "Hello World!" );
 
         ReadSheet2 readSheet = new ReadSheet2();
-        readSheet.readSheet("C:/Users/Raptor/Desktop/Item-Sales-Report-20260626135230 Report.xls");
+        readSheet.readSheet("Item-Sales-Report.xls");
         WriteToDoc.getInstance().createTable();
 
         FinalizeDoc finalizeDoc = new FinalizeDoc();
