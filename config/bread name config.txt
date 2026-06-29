@@ -1,0 +1,31 @@
+# Add asterisk to add comments.
+# This is Item Sales Report subheading mapped to bread name.
+
+Bagel Standard Noisette Seeded:Bagel
+Baguette Demi Standard Lievito:Demi Baguette
+Baguette Standard Noisette:Baguette
+Box Sandwich Standard 650g Bread:Sandwich 650gm
+Box Sandwich Standard 700g Bread:Sandwich 700gm
+Box Sandwich Standard Gluten Free:Gluten Free
+Brioche 60g Standard: Brioche 60 gm
+Catering:Catering
+Ciabatta Standard:Ciabatta
+Cobb Standard Gum Tree:Gum Tree Cobb
+Cobb Standard Schwobs:Schwobs Cobb
+Croissant Standard:Croissant
+Kere Kere Standard Toasties:Kere Kere Toastie
+Panini Standard:Panini
+Pave Standard Rustic:Pave
+Roti Wrap Standard:Roti
+Salad Protein Pot Standard:Protein Pot
+Salad Standard Bowl:Salad
+Salad Yoghurt Standard:Yogurt
+Toastie Breakfast Standard:Breakfast wrap
+Toastie Standard Sourdough Noisette:Sourdough
+Toastie Standard Thin Tip Top:Thin Toastie
+Turkish Standard Noisette Seeded:Turkish
+Wrap Standard - Closed:Closed Wrap
+Wrap Standard - Open:Open Wrap
+Wrap Standard Burrito:Burrito
+Wrap Standard Gluten Free:Gluten Free Wrap
+Zaatar Standard:Zaatar
